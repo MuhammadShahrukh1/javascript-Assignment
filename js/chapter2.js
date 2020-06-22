@@ -1,0 +1,16 @@
+var username;
+var myName = "Muhammad Shahrukh";
+var message = "Hello World";
+alert(message);
+var age = '24 years old';
+var saylani = 'Web & Mobile Hybrid App Development Course';
+alert(myName);
+alert(age);
+alert(saylani);
+alert('PIZZA \n PIZZ \n PIZ \n PI \n P ');
+var email = "Muhammadshahrukh95@hotmail.com";
+alert("My Email Address is " + email);
+var book = "A smarter way to learn JavaScript";
+alert("I am trying to learn from the book " + book);
+document.write("Yay! I can write HTML content through Javascript");
+alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬");
